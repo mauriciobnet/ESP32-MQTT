@@ -1,4 +1,4 @@
-# TTGO T-Beam - MQTT
+# ESP32- MQTT
 
 ### Exemplo de uso de MQTT sobre o DevKit TTGO T-Beam.
 
